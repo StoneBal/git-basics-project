@@ -1,3 +1,3 @@
 # git-basics-project
-# az első próbálkozásom
-Valaki elmondhatná mit csinálok!
+# az első próbálkozás
+Ez egy rövid leírás a projektről.
